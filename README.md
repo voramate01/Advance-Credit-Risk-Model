@@ -3,7 +3,7 @@
 , Loss Given Default (LGD) and Exposure at Default (EAD)
 
 
--To help illustrate the methodology, the following variables are defined</br>
+*To help illustrate the methodology, the following variables are defined</br>
 𝐿(𝑖,𝑡) : the loss amount given default on mortgage i at time t </br>
 𝐸[𝐿𝑡] : the total expected loss amount at time t
 
